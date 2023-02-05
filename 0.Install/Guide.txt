@@ -1,0 +1,11 @@
+0.Install Unity Hub in custom location
+
+1.create account, log in, skip the editor install menu
+2.Go to Preferences to change:
+-Project location
+-Install location
+
+3.Still in Preferences, Choose a Licenses plan
+
+4.Install a version of Uniy editor in Main menu
+
