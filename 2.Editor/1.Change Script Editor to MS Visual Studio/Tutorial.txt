@@ -1,0 +1,1 @@
+Edit > Preferences > External Tools > External Script Editor > Microsoft Visual Studio version
